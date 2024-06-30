@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_marginTop="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvname"
+        android:text="sgdsgdsgsgs"
+        android:textSize="20dp"
+        android:textColor="@color/design_default_color_secondary"/>
+
+
+    <ImageView
+        android:id="@+id/imv"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:scaleType="centerCrop"
+        />
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvreal"
+        android:text="sgdsgdsgsgs"
+        android:textSize="20dp"
+        android:textColor="#19DA03"/>
+
+    <TextView
+        android:paddingHorizontal="10dp"
+        android:gravity="center"
+        android:layout_marginTop="3dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bio"
+        android:text="sgdsdvsvdsvdsvdvvvvdvdsvdsvdvdvdvdvdvdvvvsvdsvdsvdvdsvdvdsvdsvdgdsgsgs"
+        android:textSize="20dp"
+        android:textColor="#0B1CB1"/>
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvby"
+        android:text="sgdsgdsgsgs"
+        android:textSize="20dp"
+        android:textColor="#350101"/>
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvfirst"
+        android:text="sgdsgdsgsgs"
+        android:textSize="20dp"
+        android:textColor="#C3991D"/>
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvpublisher"
+        android:text="sgdsgdsgsgs"
+        android:fontFamily="sans-serif-black"
+        android:textSize="30dp"
+        android:textColor="#850518"/>
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvteam"
+        android:text="sgdsgdsgsgs"
+        android:textSize="20dp"
+        android:textColor="#FF9800"/>
+    <androidx.cardview.widget.CardView
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:backgroundTint="@color/black"/>
+
+</LinearLayout>
